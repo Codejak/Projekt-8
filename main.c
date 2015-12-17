@@ -5,6 +5,7 @@
 // Standardnamensraum verwenden
 using namespace std;
 
+// machst was
 void schreibWertetabelle(Polynom* p) {
   // Grad der erzeugten Polyonme ausgeben
   cout << "Der Grad des Polynoms ist " << p->grad() << endl;
